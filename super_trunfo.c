@@ -17,6 +17,7 @@ int main(){
 
     //Imprime as solicitações de entrada e de armazenamento de dados
     printf("Dados da Carta1: \n");
+    
 
 
 }
