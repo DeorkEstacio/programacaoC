@@ -7,4 +7,13 @@
 int main () {
 
     //Declaração das variáveis das cartas
+    char estado1, estado2;
+    char codigo1[3], codigo2;
+    char cidade1[50], cidade2[50];
+    int populacao1, populacao2;
+    float area1, area2;
+    float pib1, pib2;
+    int turisticos1, turisticos2;
+
+    
 }
