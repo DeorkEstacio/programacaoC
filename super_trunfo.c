@@ -29,6 +29,8 @@ int main(){
     printf("Digite o número de habitantes da Cidade: \n", populacao1);
     scanf("%d", &populacao1);
 
+    printf("Digite a área da Cidade: \n", area1);
+
 
 
 }
