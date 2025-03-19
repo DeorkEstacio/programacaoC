@@ -15,5 +15,9 @@ int main () {
     float pib1, pib2;
     int turisticos1, turisticos2;
 
-    
+    //Imprime as solicitações de entrada de dados e armazenamento de dados
+    printf("Digite a letra do Estado: \n", estado1);
+    scanf("%c", &estado1);
+
+
 }
