@@ -33,6 +33,9 @@ int main(){
     scanf("%f", &area1);
 
     printf("Digite o PIB da Cidade: \n", pib1);
+    scanf("%f", pib1);
+
+    
 
 
 
