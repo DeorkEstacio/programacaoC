@@ -30,6 +30,7 @@ int main(){
     scanf("%d", &populacao1);
 
     printf("Digite a área da Cidade: \n", area1);
+    scanf("%f", &area1);
 
 
 
