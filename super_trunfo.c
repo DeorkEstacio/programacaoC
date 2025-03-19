@@ -19,5 +19,8 @@ int main () {
     printf("Digite a letra do Estado: \n", estado1);
     scanf("%c", &estado1);
 
+    printf("Digite o código do Estado: \n", codigo1);
+    scanf("%c", &codigo1);
+
 
 }
