@@ -16,6 +16,7 @@ int main(){
     int turisticos1, turisticos2;
 
     //Imprime as solicitações de entrada e de armazenamento de dados
+    printf("Dados da Carta1: \n");
 
 
 }
