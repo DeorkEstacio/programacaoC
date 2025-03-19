@@ -8,7 +8,7 @@ int main () {
 
     //Declaração das variáveis das cartas
     char estado1, estado2;
-    char codigo1[3], codigo2;
+    char codigo1[3], codigo2[3];
     char cidade1[50], cidade2[50];
     int populacao1, populacao2;
     float area1, area2;
@@ -21,6 +21,10 @@ int main () {
 
     printf("Digite o código do Estado: \n", codigo1);
     scanf("%c", &codigo1);
+
+    printf("Digite o nome da Cidade: \n", cidade1);
+    scanf("%c", &cidade1);
+    
 
 
 }
