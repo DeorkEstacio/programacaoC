@@ -50,16 +50,17 @@ int main(){
     printf("Digite o nome da Cidade: \n", cidade2);
     scanf("%s", &cidade2);
 
-    printf("Digite o número de habitantes da Cidade2: \n", cidade2);
-    scanf("%d", cidade2);
+    printf("Digite o número de habitantes da Cidade2: \n", populacao2);
+    scanf("%d", populacao2);
 
-    printf("Digite a área da Cidade: \n", cidade2);
+    printf("Digite a área da Cidade: \n", area2);
     scanf("%f", &area2);
 
-    printf("Digite o PIB da Cidade: \n", cidade2);
+    printf("Digite o PIB da Cidade: \n", pib2);
     scanf("%f", &pib2);
 
     printf("Digite o número de pontos turísticos da Cidade: \n", turisticos2);
+    scanf("%d", &turisticos2);
 
 
 
