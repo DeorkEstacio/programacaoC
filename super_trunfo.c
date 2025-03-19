@@ -54,6 +54,7 @@ int main(){
     scanf("%d", cidade2);
 
     printf("Digite a área da Cidade: \n", cidade2);
+    scanf("%f", &area2);
 
 
 
