@@ -45,6 +45,9 @@ int main(){
     scanf("%c", &estado2);
 
     printf("Digite o código da Cidade: \n", codigo2);
+    scanf("%s", &codigo2);
+
+    printf("Digite o nome da Cidade: \n", cidade2);
 
 
 
