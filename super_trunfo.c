@@ -50,7 +50,8 @@ int main(){
     printf("Digite o nome da Cidade: \n", cidade2);
     scanf("%s", cidade2);
 
-    printf("Digite o número de habitantes da Cidade2: \n");
+    printf("Digite o número de habitantes da Cidade2: \n", cidade2);
+    scanf("%s", cidade2);
 
 
 
