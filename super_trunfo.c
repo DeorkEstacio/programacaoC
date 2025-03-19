@@ -13,6 +13,7 @@ int main(){
     int populacao1, populacao2;
     float area1, area2;
     float pib1, pib2;
+    int turisticos1, turisticos2;
 
 
 }
