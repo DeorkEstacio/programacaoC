@@ -7,5 +7,6 @@
 int main(){
 
     //Declaração das variáveis das cartas
+    char estado1, estado2;
 
 }
