@@ -5,5 +5,7 @@
 //Aluno: Daniel Deork
 
 int main(){
-    
+
+    //Declaração das variáveis das cartas
+
 }
