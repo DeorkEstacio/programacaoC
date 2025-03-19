@@ -24,7 +24,10 @@ int main () {
 
     printf("Digite o nome da Cidade: \n", cidade1);
     scanf("%c", &cidade1);
-    
+
+    printf("Digite o número de habitantes da Cidade: \n", populacao1);
+    scanf("%d", &populacao1);
+
 
 
 }
