@@ -18,6 +18,7 @@ int main(){
     //Imprime as solicitações de entrada e de armazenamento de dados
     printf("Dados da Carta1: \n");
     printf("Digite a letra do Estado: \n", estado1);
+    scanf("%c", &estado1);
 
 
 
