@@ -10,6 +10,7 @@ int main(){
     char estado1, estado2;
     char codigo1[3], codigo2[3];
     char cidade1[50], cidade2[50];
-    
+    int populacao1, populacao2;
+
 
 }
