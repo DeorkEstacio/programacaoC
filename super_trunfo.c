@@ -66,11 +66,13 @@ int main(){
     //Imprime os dados referentes à Carta1
     printf("\nCarta1: \n");
 
-    printf("Estado: \n", estado1);
+    printf("Estado: %c \n", estado1);
 
-    printf("Código: \n", codigo1);
+    printf("Código: %s\n", codigo1);
 
-    printf("Cidade: \n", cidade1);
+    printf("Cidade: %s\n", cidade1);
+
+    printf("População: %d", populacao1);
 
 
 
