@@ -74,6 +74,8 @@ int main(){
 
     printf("População: %d", populacao1);
 
+    printf("Área: %.2f km2", area1);
+
 
 
 
