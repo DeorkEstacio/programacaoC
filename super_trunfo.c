@@ -68,6 +68,8 @@ int main(){
 
     printf("Estado: \n", estado1);
 
+    printf("Código: \n", codigo1);
+
 
 
 
