@@ -18,7 +18,7 @@ int main(){
     //Imprime as solicitações de entrada e de armazenamento de dados
     printf("Dados da Carta1: \n");
     printf("Digite a letra do Estado: \n", estado1);
-    scanf(" %c", &estado1);
+    scanf("%c", &estado1);
 
     printf("Digite o código da Cidade: \n", cidade1);
     scanf("%s", &codigo1);
@@ -50,7 +50,7 @@ int main(){
     printf("Digite o nome da Cidade: \n", cidade2);
     scanf("%s", &cidade2);
 
-    printf("Digite o número de habitantes da Cidade2: \n", populacao2);
+    printf("Digite o número de habitantes da Cidade: \n", populacao2);
     scanf("%d", &populacao2);
 
     printf("Digite a área da Cidade: \n", area2);
@@ -72,11 +72,15 @@ int main(){
 
     printf("Cidade: %s\n", cidade1);
 
-    printf("População: %d", populacao1);
+    printf("População: %d\n", populacao1);
 
-    printf("Área: %.2f km2", area1);
+    printf("Área: %.2f km2\n", area1);
 
-    printf("PIB: R$ %.2f", pib1);
+    printf("PIB: R$ %.2f\n", pib1);
+
+    printf("Número de pontos turísticos: %d\n", turisticos1);
+
+    //Imprime os dados referentes à Carta2
 
   
 
