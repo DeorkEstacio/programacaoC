@@ -89,6 +89,8 @@ int main(){
 
     printf("Cidade: %s\n", cidade2);
 
+    printf("População: %d\n", populacao2);
+
   
 
 
