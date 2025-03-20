@@ -70,6 +70,8 @@ int main(){
 
     printf("Código: \n", codigo1);
 
+    printf("Cidade: \n", cidade1);
+
 
 
 
