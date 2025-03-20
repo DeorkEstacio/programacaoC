@@ -76,6 +76,10 @@ int main(){
 
     printf("Área: %.2f km2", area1);
 
+    printf("PIB: R$ %.2f", pib1);
+
+  
+
 
 
 
