@@ -81,6 +81,7 @@ int main(){
     printf("Número de pontos turísticos: %d\n", turisticos1);
 
     //Imprime os dados referentes à Carta2
+    prinf("\nCarta2: \n");
 
   
 
