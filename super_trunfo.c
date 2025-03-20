@@ -66,6 +66,8 @@ int main(){
     //Imprime os dados referentes à Carta1
     printf("\nCarta1: \n");
 
+    printf("Estado: \n", estado1);
+
 
 
 
