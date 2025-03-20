@@ -85,6 +85,8 @@ int main(){
 
     printf("Estado: %c \n", estado2);
 
+    printf("Código: %s\n", codigo2):
+
   
 
 
