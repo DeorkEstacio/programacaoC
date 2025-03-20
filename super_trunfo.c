@@ -83,6 +83,8 @@ int main(){
     //Imprime os dados referentes à Carta2
     prinf("\nCarta2: \n");
 
+    printf("Estado: %c \n", estado2);
+
   
 
 
