@@ -91,6 +91,8 @@ int main(){
 
     printf("População: %d\n", populacao2);
 
+    printf("Área: %.2f km2\n", area2);
+
   
 
 
