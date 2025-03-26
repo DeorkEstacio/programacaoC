@@ -8,17 +8,18 @@ int main(){
 
     //Declaração das variáveis das cartas
     char estado1, estado2;
-    char codigo1[3], codigo2[3];
+    char codigo1[4], codigo2[4];
     char cidade1[50], cidade2[50];
     int populacao1, populacao2;
     float area1, area2;
     float pib1, pib2;
     int turisticos1, turisticos2;
+    float densidade1, densidade2;
 
     //Imprime as solicitações de entrada e de armazenamento de dados
     printf("Dados da Carta1: \n");
     printf("Digite a letra do Estado: \n", estado1);
-    scanf("%c", &estado1);
+    scanf(" %c", &estado1);
 
     printf("Digite o código da Cidade: \n", cidade1);
     scanf("%s", &codigo1);
@@ -81,7 +82,7 @@ int main(){
     printf("Número de pontos turísticos: %d\n", turisticos1);
 
     //Imprime os dados referentes à Carta2
-    prinf("\nCarta2: \n");
+    printf("\nCarta2: \n");
 
     printf("Estado: %c \n", estado2);
 
@@ -97,7 +98,7 @@ int main(){
 
     printf("Número de pontos turísticos: %d\n", turisticos2);
 
-    return 0;
+    return 0; 
 
 
 
