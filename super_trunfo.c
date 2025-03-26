@@ -107,6 +107,8 @@ int main(){
 
     printf("Número de pontos turísticos: %d\n", turisticos2);
 
+    printf("Densidade populacional: %.2f hab/km2 \n", densidade1);
+
     
 
     return 0; 
