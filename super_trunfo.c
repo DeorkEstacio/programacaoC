@@ -67,6 +67,8 @@ int main(){
     printf("Digite o número de pontos turísticos da Cidade: \n", turisticos2);
     scanf("%d", &turisticos2);
 
+    densidade2 = populacao2 / area2;
+
 
     //Imprime os dados referentes à Carta1
     printf("\nCarta1: \n");
