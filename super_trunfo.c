@@ -15,6 +15,7 @@ int main(){
     float pib1, pib2;
     int turisticos1, turisticos2;
     float densidade1, densidade2;
+    float percapita1, percapita2;
 
     //Imprime as solicitações de entrada e de armazenamento de dados
     printf("Dados da Carta1: \n");
