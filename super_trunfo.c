@@ -41,6 +41,7 @@ int main(){
     scanf("%d", &turisticos1);
 
     densidade1 = populacao1 / area1;
+    percapita1 = pib1 / populacao1;
 
 
     //Solicitações de entrada e armazenamento de dados da Carta2
