@@ -88,6 +88,8 @@ int main(){
 
     printf("Número de pontos turísticos: %d\n", turisticos1);
 
+    printf("Densidade populacional: %.2f hab/km2 \n", densidade1);
+
     //Imprime os dados referentes à Carta2
     printf("\nCarta2: \n");
 
