@@ -125,6 +125,11 @@ int main(){
 
     //Compara o PIB das duas cidades e imprime o resultado.
 
+    if (pib1 > pib2) {
+        printf("Resultado: Carta 1 (São Paulo) venceu! \n");}
+    else  {
+        printf("A Carta 2 (Rio de Janeiro) venceu! \n");}
+
  
 
     
