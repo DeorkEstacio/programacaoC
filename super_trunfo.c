@@ -123,6 +123,8 @@ int main(){
 
     printf("Carta 2 - Rio de Janeiro (RJ): %.2f de reais \n", pib2);
 
+    //Compara o PIB das duas cidades e imprime o resultado.
+
  
 
     
