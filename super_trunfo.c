@@ -117,6 +117,8 @@ int main(){
 
     printf("\n Comparação das Cartas (Atributo:PIB): \n");
 
+    printf("\n");
+
  
 
     
