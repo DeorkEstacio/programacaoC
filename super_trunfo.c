@@ -121,6 +121,8 @@ int main(){
 
     printf("Carta 1 - São Paulo (SP): %.2f de reais \n", pib1);
 
+    printf("Carta 2 - Rio de Janeiro (RJ): %.2f de reais \n", pib2);
+
  
 
     
