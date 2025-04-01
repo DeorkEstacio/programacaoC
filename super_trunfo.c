@@ -119,6 +119,8 @@ int main(){
 
     printf("\n");
 
+    printf("Carta 1 - São Paulo (SP): %.2f de reais \n", pib1);
+
  
 
     
