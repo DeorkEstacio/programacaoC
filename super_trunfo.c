@@ -131,6 +131,9 @@ int main(){
     else  {
         printf("A Carta 2 (Rio de Janeiro) venceu! \n");}
 
+
+    //Cria o menu interativo
+
  
 
     
