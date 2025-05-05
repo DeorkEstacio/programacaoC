@@ -196,7 +196,10 @@ int main(){
                } else {
                   printf("Empate! \n");
                }
-               break;      
+               break; 
+        default:
+            printf("Opção inválida \n");
+            break;     
     }
 
  
