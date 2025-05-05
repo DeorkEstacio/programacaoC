@@ -135,6 +135,7 @@ int main(){
     //Cria o menu interativo
 
     printf("Escolha um atributo para comparar as cartas: \n");
+    printf("País: Brasil \n");
 
  
 
