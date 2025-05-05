@@ -186,6 +186,16 @@ int main(){
                } else {
                   printf("Empate! \n");
                }
+               break;
+        case 5:
+               if(densidade1 < densidade2)
+               {
+                printf("A Carta 1 venceu! \n");
+               } else if (densidade1 > densidade2) {
+                  printf("A Carta 2 venceu!\n");
+               } else {
+                  printf("Empate! \n");
+               }
                break;      
     }
 
