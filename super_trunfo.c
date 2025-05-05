@@ -146,6 +146,10 @@ int main(){
 
     //Cria a estrutura switch
 
+    switch(opcao) {
+        
+    }
+
  
 
     
