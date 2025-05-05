@@ -138,6 +138,7 @@ int main(){
     printf("País: Brasil \n");
     printf("1. População: \n");
     printf("2. Área: \n");
+    printf("3. PIB: \n");
 
  
 
