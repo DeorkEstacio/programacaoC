@@ -137,6 +137,7 @@ int main(){
     printf("Escolha um atributo para comparar as cartas: \n");
     printf("País: Brasil \n");
     printf("1. População: \n");
+    printf("2. Área: \n");
 
  
 
