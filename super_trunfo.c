@@ -176,7 +176,17 @@ int main(){
                } else {
                   printf("Empate! \n");
                }
-               break;       
+               break; 
+        case 4:
+                if(turisticos1 > turisticos2)
+               {
+                printf("A Carta 1 venceu! \n");
+               } else if (turisticos1 < turisticos2) {
+                  printf("A Carta 2 venceu!\n");
+               } else {
+                  printf("Empate! \n");
+               }
+               break;      
     }
 
  
