@@ -167,6 +167,16 @@ int main(){
                   printf("Empate! \n");
                }
                break; 
+        case 3:
+               if(pib1 > pib2)
+               {
+                printf("A Carta 1 venceu! \n");
+               } else if (pib1 < pib2) {
+                  printf("A Carta 2 venceu!\n");
+               } else {
+                  printf("Empate! \n");
+               }
+               break;       
     }
 
  
