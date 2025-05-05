@@ -147,7 +147,16 @@ int main(){
     //Cria a estrutura switch
 
     switch(opcao) {
-        
+        case 1:
+        if(populacao1 > populacao2)
+        {
+         printf("A Carta 1 venceu! \n");
+        } else if (populacao1 < populacao2) {
+           printf("A Carta 2 venceu!\n");
+        } else {
+           printf("Empate! \n");
+        }
+        break;  
     }
 
  
