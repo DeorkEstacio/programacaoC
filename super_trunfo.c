@@ -144,6 +144,8 @@ int main(){
 
     scanf("%d", &opcao);
 
+    //Cria a estrutura switch
+
  
 
     
