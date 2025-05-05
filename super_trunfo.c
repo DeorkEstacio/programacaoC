@@ -142,6 +142,8 @@ int main(){
     printf("4. Número de pontos turísticos: \n");
     printf("5. Densidade demográfica:");
 
+    scanf("%d", &opcao);
+
  
 
     
