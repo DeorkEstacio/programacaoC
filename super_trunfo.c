@@ -140,6 +140,7 @@ int main(){
     printf("2. Área: \n");
     printf("3. PIB: \n");
     printf("4. Número de pontos turísticos: \n");
+    printf("5. Densidade demográfica:");
 
  
 
