@@ -11,5 +11,7 @@ int main () {
         printf("Direita \n");  
     }
 
+    //Movimento do Bispo
+
     
 }
