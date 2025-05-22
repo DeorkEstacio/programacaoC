@@ -27,7 +27,7 @@ int main () {
     do {
           printf("Esquerda \n");
           rainha++;
-    }
+    } while (rainha < 8);
 
     
 }
