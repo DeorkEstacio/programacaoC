@@ -14,5 +14,10 @@ int main () {
     //Movimento do Bispo
     int bispo = 0;
 
+    while(bispo < 5) 
+    {
+        
+    }
+
     
 }
