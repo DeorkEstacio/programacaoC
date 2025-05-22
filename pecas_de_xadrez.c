@@ -18,6 +18,7 @@ int main () {
     {
           printf("Acima \n");
           printf("À direita \n");
+          bispo++;
     }
 
     
