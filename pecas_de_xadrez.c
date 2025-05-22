@@ -12,6 +12,7 @@ int main () {
     }
 
     //Movimento do Bispo
+    int bispo = 0;
 
     
 }
