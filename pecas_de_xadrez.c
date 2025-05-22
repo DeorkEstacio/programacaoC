@@ -24,5 +24,9 @@ int main () {
     // Movimento da rainha
     int rainha = 0;
 
+    do {
+          printf("Esquerda \n");
+    }
+
     
 }
