@@ -21,7 +21,7 @@ int main () {
           bispo++;
     }
 
-    //
+    // Movimento da rainha
 
     
 }
