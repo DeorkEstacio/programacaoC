@@ -17,6 +17,7 @@ int main () {
     while(bispo < 5) 
     {
           printf("Acima \n");
+          printf("À direita \n");
     }
 
     
