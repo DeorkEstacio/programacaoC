@@ -22,6 +22,7 @@ int main () {
     }
 
     // Movimento da rainha
+    int rainha = 0;
 
     
 }
