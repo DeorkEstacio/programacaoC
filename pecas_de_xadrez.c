@@ -29,5 +29,7 @@ int main () {
           rainha++;
     } while (rainha < 8);
 
+    return 0;
+
     
 }
