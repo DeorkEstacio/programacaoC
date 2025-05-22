@@ -8,7 +8,7 @@ int main () {
     // Movimento da Torre
     for(int i = 0; i < 5; i++) 
     {
-        
+        printf("Direita \n");  
     }
 
     
