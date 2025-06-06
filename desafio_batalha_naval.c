@@ -8,4 +8,9 @@ int main () {
 
     char linha[10] = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'};
 
+    // Criando o tabuleiro
+    printf("TABULEIRO BATALHA NAVAL\n\n");
+
+    int tabuleiro[10][10] = {0}; // Inicializando com zeros
+
 }
