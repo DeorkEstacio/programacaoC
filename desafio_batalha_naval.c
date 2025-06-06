@@ -13,4 +13,9 @@ int main () {
 
     int tabuleiro[10][10] = {0}; // Inicializando com zeros
 
+    // Definindo a posição do navio horizontal
+    tabuleiro[2][3] = 3;
+    tabuleiro[2][4] = 3;
+    tabuleiro[2][5] = 3;
+
 }
