@@ -36,5 +36,14 @@ int main () {
         for (int j = 0; j < 10; j++) {
             if (tabuleiro[i][j] == 3) {
                 printf(" 3 ");  // Imprime os números referentes aos navios
+                            } else {
+                printf(" 0 ");  // Representação da água
+            }
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
 
 }
