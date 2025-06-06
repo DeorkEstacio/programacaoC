@@ -30,4 +30,9 @@ int main () {
     }
     printf("\n");
 
+    // Imprimindo o tabuleiro com números na vertical
+    for (int i = 0; i < 10; i++) {
+        printf("%d ", i + 1);  // Imprime os números na vertical
+        for (int j = 0; j < 10; j++) {
+
 }
