@@ -18,4 +18,9 @@ int main () {
     tabuleiro[2][4] = 3;
     tabuleiro[2][5] = 3;
 
+    // Definindo a posição do navio vertical
+    tabuleiro[5][7] = 3;
+    tabuleiro[6][7] = 3;
+    tabuleiro[7][7] = 3;
+
 }
