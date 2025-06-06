@@ -23,4 +23,11 @@ int main () {
     tabuleiro[6][7] = 3;
     tabuleiro[7][7] = 3;
 
+    // Imprimindo as letras na horizontal
+    printf("   ");
+    for (int j = 0; j < 10; j++) {
+        printf("%c  ", linha[j]);
+    }
+    printf("\n");
+
 }
