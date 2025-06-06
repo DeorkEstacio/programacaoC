@@ -34,5 +34,7 @@ int main () {
     for (int i = 0; i < 10; i++) {
         printf("%d ", i + 1);  // Imprime os números na vertical
         for (int j = 0; j < 10; j++) {
+            if (tabuleiro[i][j] == 3) {
+                printf(" 3 ");  // Imprime os números referentes aos navios
 
 }
